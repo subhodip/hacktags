@@ -1,0 +1,15 @@
+{
+	"serialization": "",
+	"questionBlock": "",
+	"suggestBlock" : {
+		"tags": [],
+		"synonyms": [],
+		"antonyms": [],
+		"simmilarWords": [], 
+		"definations": []
+	},
+	"match" :{
+		"percentage" : "",
+		"questions": []
+	}
+}
